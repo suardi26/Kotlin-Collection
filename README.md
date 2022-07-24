@@ -1,6 +1,6 @@
 ## Kotlin Collection
 
-<img src=https://github.com/suardi26/Kotlin-Collection/blob/main/Kotlin%20Collection.jpg" alt="Collection Interface"/>
+<img src="https://github.com/suardi26/Kotlin-Collection/blob/main/Kotlin%20Collection.jpg" alt="Collection Interface"/>
 
 ### Software :
 
