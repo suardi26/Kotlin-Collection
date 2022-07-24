@@ -35,5 +35,5 @@ fun main() {
     // Memanggil function forEach yang parameternya entry namun diganti dengan destructuring declaration.
     println("key-value")
     map.forEach(){(key, value) -> println("$key-$value")}
-    println("= = = = = = =") 
+    println("= = = = = = =")
 }
